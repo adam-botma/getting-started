@@ -21,5 +21,46 @@ A quick guide to getting your new MacPro set up for dev
 
 ``` brew help ``` 
 
+
+Homebrew Docs : https://docs.brew.sh/  
+
 ## Install NVM 
-1. 
+1. Make sure you are in your root directory 
+
+``` cd ~ ```
+
+2. create a .zshrc file 
+``` touch .zshrc ```
+
+3. install NVM using curl
+
+``` curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash ```
+
+4. install node using NVM 
+
+``` nvm install node ``` 
+ - this will install the latest version on node 
+
+5. install most active LTS (longer term support) version 
+
+``` nvm install --lts ```
+
+NVM Docs: https://github.com/nvm-sh/nvm
+
+
+## Add Global npm packages
+
+1. Nodemon 
+
+``` npm install -g nodemon ``` 
+
+2. Yarn 
+
+``` npm install -g yarn ```
+
+
+## Add Shopify CLI 
+
+` brew tap shopify/shopify`
+
+`  brew install shopify-cli `
