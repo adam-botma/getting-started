@@ -64,3 +64,5 @@ NVM Docs: https://github.com/nvm-sh/nvm
 ` brew tap shopify/shopify`
 
 `  brew install shopify-cli `
+
+Shopify CLI docs: https://shopify.dev/themes/tools/cli
