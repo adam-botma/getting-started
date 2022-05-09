@@ -79,3 +79,10 @@ Shopify CLI docs: https://shopify.dev/themes/tools/cli
 ```ngrok config add-authtoken [your auth token]```
 ```shopify app tunnel [your auth token]```
 
+
+## To View Shopify CLI errors
+
+add the following to your ```.zprofile``` in your root directory
+
+```export SHOPIFY_CLI_STACKTRACE=1```
+
