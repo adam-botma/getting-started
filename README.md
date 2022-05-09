@@ -66,3 +66,11 @@ NVM Docs: https://github.com/nvm-sh/nvm
 `  brew install shopify-cli `
 
 Shopify CLI docs: https://shopify.dev/themes/tools/cli
+
+
+## Add ngrok
+1. Head to the following link, create and account, and install ngrok: 
+
+https://dashboard.ngrok.com/get-started/setup
+
+
