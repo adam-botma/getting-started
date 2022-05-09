@@ -69,8 +69,13 @@ Shopify CLI docs: https://shopify.dev/themes/tools/cli
 
 
 ## Add ngrok
-1. Head to the following link, create and account, and install ngrok: 
+1. Create an account here: https://dashboard.ngrok.com/get-started/setup
+2. Install ngrok: 
 
-https://dashboard.ngrok.com/get-started/setup
+```brew install --cask ngrok```
+
+3. add your auth token (can be found here: https://dashboard.ngrok.com/get-started/your-authtoken)
+
+```ngrok config add-authtoken [your auth token]```
 
 
