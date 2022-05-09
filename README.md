@@ -77,5 +77,5 @@ Shopify CLI docs: https://shopify.dev/themes/tools/cli
 3. add your auth token (can be found here: https://dashboard.ngrok.com/get-started/your-authtoken)
 
 ```ngrok config add-authtoken [your auth token]```
-
+```shopify app tunnel [your auth token]```
 
