@@ -87,3 +87,7 @@ add the following to your ```.zprofile``` in your root directory
 
 ```export SHOPIFY_CLI_STACKTRACE=1```
 
+
+## Additional Items to Add
+
+React Chrome Devtools: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en
