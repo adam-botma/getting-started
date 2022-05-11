@@ -89,5 +89,8 @@ add the following to your ```.zprofile``` in your root directory
 
 
 ## Additional Items to Add
+Postman 
+
+```brew install --cask postman```
 
 React Chrome Devtools: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en
