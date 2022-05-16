@@ -93,4 +93,6 @@ Postman:  `brew install --cask postman`
 
 Heroku: `brew tap heroku/brew && brew install heroku`
 
+Zoom: `brew install --cask zoom`
+
 React Chrome Devtools: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en
